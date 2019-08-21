@@ -1869,6 +1869,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [rex](https://github.com/goanywhere/rex) - Rex is a library for modular development built upon gorilla/mux, fully compatible with `net/http`.
 * [route](https://github.com/goroute/route) - Simple yet powerful HTTP request multiplexer.
 * [rux](https://github.com/gookit/rux) - Simple and fast web framework for build golang HTTP applications.
+* [Totoval](https://github.com/totoval/totoval) - An out-of-the-box artisan API web-framework written in go.
 * [tango](https://github.com/lunny/tango) - Micro & pluggable web framework for Go.
 * [tigertonic](https://github.com/rcrowley/go-tigertonic) - Go framework for building JSON web services inspired by Dropwizard.
 * [traffic](https://github.com/pilu/traffic) - Sinatra inspired regexp/pattern mux and web framework for Go.
